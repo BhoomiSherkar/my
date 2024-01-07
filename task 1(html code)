@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task 1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <img src="assets/images/logo.png" alt="">
+
+    </header>
+    <nav>
+        <div class="logo">
+            B Cube Kitchen
+        </div>
+        <a href="#">Home</a>
+        <a href="#">About Us</a>
+        <a href="#">Contact</a>
+    </nav>
+    <main>
+        <div class="intro">
+            <h3>
+                Welcome to B Cube Kitchen, your innovative culinary platform! At B Cube Kitchen, we bring together
+                passionate food enthusiasts, chefs, and hungry individuals to create a unique and interactive culinary
+                experience.
+            </h3>
+
+            <b>
+                Explore, Create, and Share
+            </b>
+            <div class="box1_2">
+
+                Discover Unique Recipes:
+                Explore a world of creativity as users invent and share their own delectable recipes. From
+                mouth-watering appetizers to satisfying main courses, our community showcases a diverse range of
+                culinary masterpieces.
+            </div>
+            <div class="box1_3">
+
+                Express Your Culinary Artistry:
+                Unleash your creativity in the kitchen by crafting and documenting your own recipes. Share your cooking
+                prowess with the community, inspiring others to embark on their culinary adventures.
+            </div>
+            <div class="box1_4">
+                Satisfy Your Cravings:
+                Feeling hungry? Indulge your taste buds by ordering delicious meals crafted by our talented chefs.
+                Whether it's a homemade dish or a gourmet delight, B Cube Kitchen is your go-to platform for satisfying
+                cravings.
+            </div>
+            <b>
+                How It Works
+            </b>
+            <ol>
+                <li>Create: Invent your signature dish and document the recipe.</li>
+                <li>Share: Connect with a community of food enthusiasts by sharing your culinary creations.</li>
+                <li>Order: Fulfill your cravings by exploring and ordering from a variety of mouthwatering dishes
+                    crafted by talented chefs.</li>
+            </ol>
+            <div class="box1_5">
+
+                Join us at B Cube Kitchen, where the love for food meets innovation. Let's embark on a journey of
+                culinary excellence together!
+            </div>
+
+        </div>
+        </div>
+
+        <div class="box2">
+            <img src="assets/images/create.jpg" alt="">
+            <br>
+            <b>
+                Make your creation visible.
+            </b>
+            <br>
+            <p>
+                Discover the joy of culinary innovation! Unleash your creativity and bring your unique recipes to life.
+                We invite you to showcase your culinary masterpieces, complete with captivating images and step-by-step
+                instructions. Whether you're a seasoned chef or a passionate home cook, our platform empowers you to
+                make your creations visible to a community of fellow food enthusiasts. Start your journey towards
+                becoming a culinary influencer – share, inspire, and be a part of the vibrant B Cube Kitchen community!
+
+            </p>
+            <button>
+                START
+            </button>
+        </div>
+
+        <div class="box3">
+            <img src="assets/images/post.jpg" alt="">
+            <br>
+            <b>
+                Post and share your recipe.
+            </b>
+            <br>
+            <p>
+                Share the flavors of your culinary expertise. Post and share your favorite recipes on B Cube Kitchen!
+                Whether it's a secret family dish or a recent culinary creation, engage with our community of food
+                enthusiasts. Let your recipes inspire others to embark on their own gastronomic adventures. Join us in
+                the joy of sharing delicious moments and connecting through the love of food. Start posting and be a
+                vital part of the vibrant B Cube Kitchen community!
+
+            </p>
+            <button>
+                START
+            </button>
+        </div>
+
+        <div class="box4">
+            <img src="assets/images/order.jpg" alt="">
+            <br>
+            <b>
+                Fullstop to your hunger cravings.
+            </b>
+            <br>
+            <p>
+                Box 4 is your gateway to satisfying hunger cravings at B Cube Kitchen. Indulge in a delightful culinary
+                experience by exploring and ordering mouthwatering dishes crafted by our talented chefs. From homemade
+                comforts to gourmet delights, we offer a diverse menu to satiate your appetite. Experience the
+                convenience of ordering and enjoying delicious meals at your fingertips. Take a full stop to your hunger
+                cravings – start exploring our curated selection and treat yourself to a culinary delight!
+
+            </p>
+            <button>
+                START
+            </button>
+        </div>
+
+    </main>
+
+    <footer>
+        &copy; 2024 B Cube Kitchen. All Rights Reserved.
+
+
+    </footer>
+</body>
+
+</html>
