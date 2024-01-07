@@ -1,0 +1,247 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+header {
+    background: linear-gradient(to right, #c1e7ce, #a3dab6);
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    box-shadow: 0 0 10px rgba(16, 214, 99, 0.3);
+}
+
+header img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50px;
+}
+
+nav {
+    background: linear-gradient(to right, #15602d, #217247);
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    margin-right: auto;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 20px;
+    font-size: 16px;
+    transition: color 0.3s ease-in-out;
+}
+
+nav a:hover {
+    color: #ff6f61;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    background-image: url(assets/images/bg.jpg);
+    background-size: 30%;
+}
+
+.intro {
+    background-color: #f2f6f2;
+    /* Sap Green background */
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: #285c28;
+    /* Dark green text color */
+    transition: transform 0.3s ease-in-out;
+}
+
+.main {
+    background-color: green;
+}
+
+.box1_2:hover {
+    transform: scale(1.05);
+}
+
+.box1_3:hover {
+    transform: scale(1.05);
+}
+
+.box1_4:hover {
+    transform: scale(1.05);
+}
+
+.into h3 {
+    font-size: 24px;
+    color: #285c28;
+    /* Dark green heading color */
+    margin-bottom: 20px;
+}
+
+.intro b {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #ef6611;
+    /* A slightly lighter green for the emphasized text */
+}
+
+.intrp p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.intro ol {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.intro ol li {
+    font-size: 17px;
+    line-height: 1.6;
+    color: rgb(208, 128, 75);
+}
+
+.intro div {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+
+.box1_2,
+.box1_3,
+.box1_4,
+.box1_5,
+.box2,
+.box3,
+.box4 {
+    background-color: #fff;
+    padding: 20px;
+    margin: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: #333;
+}
+
+.box1_5 {
+    color: white;
+    background-color: rgb(73, 72, 72);
+}
+
+.box3 img,
+.box4 img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.box2,
+.box3,
+.box4 {
+    background-color: #fff;
+    /* White background */
+    padding: 30px;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: #333;
+    /* Dark Grey text color */
+}
+
+.box2 img,
+.box3 img,
+.box4 img {
+    max-width: 100%;
+    height: auto;
+}
+
+.box2 b,
+.box3 b,
+.box4 b {
+    display: block;
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #008000;
+    /* Dark Green emphasized text color */
+}
+
+.box2 p,
+.box3 p,
+.box4 p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #008000;
+    /* Dark Green button color */
+    color: #fff;
+    /* White button text color */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #005000;
+    /* Darker Green on hover */
+}
+
+button {
+    background-color: #ff6f61;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #333;
+}
+
+footer {
+    background: linear-gradient(to right, #333, #555);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer {
+    width: 100%;
+    padding-top: 86px;
+    background: #1a1a1a;
+}
+
+.footer .section_title h1 {
+    color: #FFFFFF;
+}
